@@ -1,0 +1,27 @@
+{
+  "name": "cross2way_cmc",
+  "version": "1.0.0",
+  "description": "cross 2 way cmc",
+  "main": "server.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "datahub-proxy-middleware": "^5.0.0",
+    "macaca-datahub": "^3.0.3",
+    "macaca-wd": "^3.3.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeoneline/cross2way_cmc.git"
+  },
+  "author": "jsw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeoneline/cross2way_cmc/issues"
+  },
+  "homepage": "https://github.com/codeoneline/cross2way_cmc#readme"
+}
